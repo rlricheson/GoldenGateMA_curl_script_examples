@@ -1,2 +1,3 @@
 # GoldenGateMA_curl_script_examples
 GoldenGateMA curl script examples
+You can see other examples at https://static.rainfocus.com/oracle/oow19/sess/1559943334269001RLwS/PF/THT6127_Using_Curl_with_the_Oracle_GoldenGate_Microservices_Architecture_15687890728330018gFk.pdf
